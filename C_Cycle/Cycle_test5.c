@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    //Loacl variable defination
+    //Loacl variable definition
     int a = 10;
 
     //Do loop execution

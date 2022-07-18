@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    //Loacl variable defination
+    //Loacl variable definition
     int a = 10;
 
     //The DO loop is executed at least once before the condition is tested

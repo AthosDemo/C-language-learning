@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    //Local variable defination
+    //Local variable definition
     int a = 10;
 
     //While loop execution
